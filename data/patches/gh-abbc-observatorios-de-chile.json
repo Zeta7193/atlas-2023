@@ -1,0 +1,122 @@
+{
+	"id": -1,
+	"name": "Observatorios de Chile",
+	"description": "This art represents the observatories found throughout Chile, concentrating mostly in the northern part of the country, this because \"the Atacama desert is considered the best place on the planet to observe the firmament and develop astronomy\" ( Wikipedia).",
+	"links": {
+		"website": [
+			"https://es.wikipedia.org/wiki/Desierto_de_Atacama",
+			"https://www.conicyt.cl/documentos/Fichasobservatorios.pdf",
+			"https://www.turismoastronomico.cl/observatorios-astronomicos.html"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1304,
+				-847
+			],
+			[
+				-1303,
+				-863
+			],
+			[
+				-1295,
+				-877
+			],
+			[
+				-1290,
+				-880
+			],
+			[
+				-1291,
+				-888
+			],
+			[
+				-1281,
+				-888
+			],
+			[
+				-1281,
+				-882
+			],
+			[
+				-1281,
+				-880
+			],
+			[
+				-1279,
+				-878
+			],
+			[
+				-1276,
+				-881
+			],
+			[
+				-1271,
+				-881
+			],
+			[
+				-1270,
+				-879
+			],
+			[
+				-1270,
+				-876
+			],
+			[
+				-1274,
+				-873
+			],
+			[
+				-1269,
+				-866
+			],
+			[
+				-1269,
+				-850
+			],
+			[
+				-1270,
+				-848
+			],
+			[
+				-1272,
+				-847
+			],
+			[
+				-1276,
+				-847
+			],
+			[
+				-1282,
+				-847
+			],
+			[
+				-1287,
+				-844
+			],
+			[
+				-1295,
+				-844
+			],
+			[
+				-1298,
+				-843
+			],
+			[
+				-1301,
+				-844
+			],
+			[
+				-1304,
+				-847
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1286,
+			-862
+		]
+	}
+}
